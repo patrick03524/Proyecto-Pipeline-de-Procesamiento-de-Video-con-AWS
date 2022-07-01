@@ -1,0 +1,11 @@
+Name,Confidence,Instances,Parents
+Engine,97.57347106933594,[],"[{'Name': 'Motor'}, {'Name': 'Machine'}]"
+Machine,97.57347106933594,[],[]
+Motor,97.57347106933594,[],[{'Name': 'Machine'}]
+Nature,96.37589263916016,[],[]
+Outdoors,95.14383697509766,[],[]
+Turbine,87.97264099121094,[],"[{'Name': 'Engine'}, {'Name': 'Motor'}, {'Name': 'Machine'}]"
+Sky,87.79180145263672,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Azure Sky,85.47174072265625,[],"[{'Name': 'Sky'}, {'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Wind Turbine,82.55178833007812,[],"[{'Name': 'Turbine'}, {'Name': 'Engine'}, {'Name': 'Motor'}, {'Name': 'Machine'}]"
+Cloud,59.70408630371094,[],"[{'Name': 'Sky'}, {'Name': 'Outdoors'}, {'Name': 'Nature'}]"

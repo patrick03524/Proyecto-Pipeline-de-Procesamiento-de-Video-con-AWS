@@ -1,0 +1,11 @@
+Name,Confidence,Instances,Parents
+Nature,96.03215026855469,[],[]
+Outdoors,95.82754516601562,[],[]
+Outer Space,83.2155990600586,[],[{'Name': 'Astronomy'}]
+Space,83.2155990600586,[],[{'Name': 'Astronomy'}]
+Astronomy,83.2155990600586,[],[]
+Night,69.75820922851562,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Plant,67.32467651367188,[],[]
+Snow,55.656036376953125,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Ice,55.57868576049805,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Tree,55.093326568603516,[],[{'Name': 'Plant'}]

@@ -1,0 +1,11 @@
+Name,Confidence,Instances,Parents
+Nature,99.70188903808594,[],[]
+Outdoors,99.43488311767578,[],[]
+Sky,97.46077728271484,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Cloud,96.48263549804688,[],"[{'Name': 'Sky'}, {'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Weather,91.92560577392578,[],[{'Name': 'Nature'}]
+Cumulus,91.74300384521484,[],"[{'Name': 'Cloud'}, {'Name': 'Weather'}, {'Name': 'Sky'}, {'Name': 'Nature'}, {'Name': 'Outdoors'}]"
+Azure Sky,91.54703521728516,[],"[{'Name': 'Sky'}, {'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Ice,84.53551483154297,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Land,72.42560577392578,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"
+Snow,71.54666137695312,[],"[{'Name': 'Outdoors'}, {'Name': 'Nature'}]"

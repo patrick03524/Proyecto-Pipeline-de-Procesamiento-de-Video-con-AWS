@@ -1,0 +1,11 @@
+Name,Confidence,Instances,Parents
+City,99.7899398803711,[],"[{'Name': 'Urban'}, {'Name': 'Building'}]"
+Urban,99.7899398803711,[],[]
+Building,99.7899398803711,[],[]
+High Rise,99.69901275634766,[],"[{'Name': 'City'}, {'Name': 'Urban'}, {'Name': 'Building'}]"
+Metropolis,99.07269287109375,[],"[{'Name': 'City'}, {'Name': 'Urban'}, {'Name': 'Building'}]"
+Architecture,94.49655151367188,[],[{'Name': 'Building'}]
+Nature,92.69497680664062,[],[]
+Outdoors,92.42970275878906,[],[]
+Downtown,84.03495025634766,[],"[{'Name': 'City'}, {'Name': 'Urban'}, {'Name': 'Building'}]"
+Skyscraper,74.8167953491211,[],"[{'Name': 'High Rise'}, {'Name': 'Architecture'}, {'Name': 'City'}, {'Name': 'Building'}, {'Name': 'Urban'}]"

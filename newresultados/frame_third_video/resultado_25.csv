@@ -1,0 +1,11 @@
+Name,Confidence,Instances,Parents
+Face,99.99375915527344,[],[{'Name': 'Person'}]
+Person,99.99375915527344,"[{'BoundingBox': {'Width': 0.7730366587638855, 'Height': 0.982576310634613, 'Left': 0.22030404210090637, 'Top': 0.003296110313385725}, 'Confidence': 99.6258773803711}]",[]
+Laughing,99.58240509033203,[],"[{'Name': 'Face'}, {'Name': 'Person'}]"
+Smile,99.47137451171875,[],"[{'Name': 'Face'}, {'Name': 'Person'}]"
+Boy,96.86871337890625,[],[{'Name': 'Person'}]
+Portrait,82.73575592041016,[],"[{'Name': 'Face'}, {'Name': 'Photography'}, {'Name': 'Person'}]"
+Photography,82.73575592041016,[],[{'Name': 'Person'}]
+Teeth,75.1789779663086,[],[]
+Kid,74.32626342773438,[],[{'Name': 'Person'}]
+Selfie,72.08641815185547,[],"[{'Name': 'Portrait'}, {'Name': 'Face'}, {'Name': 'Photography'}, {'Name': 'Person'}]"

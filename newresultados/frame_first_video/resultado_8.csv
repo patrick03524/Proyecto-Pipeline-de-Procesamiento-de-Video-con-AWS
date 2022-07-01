@@ -1,0 +1,6 @@
+Name,Confidence,Instances,Parents
+Engine,99.3509521484375,[],"[{'Name': 'Motor'}, {'Name': 'Machine'}]"
+Machine,99.3509521484375,[],[]
+Motor,99.3509521484375,[],[{'Name': 'Machine'}]
+Turbine,94.53434753417969,[],"[{'Name': 'Engine'}, {'Name': 'Motor'}, {'Name': 'Machine'}]"
+Wind Turbine,92.03282165527344,[],"[{'Name': 'Turbine'}, {'Name': 'Engine'}, {'Name': 'Motor'}, {'Name': 'Machine'}]"
